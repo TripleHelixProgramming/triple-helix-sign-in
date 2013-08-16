@@ -1,0 +1,2 @@
+serviceClass: org.team2363.signin.client.GreetingService
+path: 3FC3FE033B80241814840E6AC65043C5.gwt.rpc

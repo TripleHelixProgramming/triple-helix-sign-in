@@ -1,0 +1,32 @@
+/** Add css rules here for your application. */
+
+h1
+{
+	color: #2E2E2E;
+	
+	font-size: 32px;
+	line-height: 44px;
+	letter-spacing: 2px;
+	
+	text-align: center;
+}
+
+.fillWidth
+{
+	width: 100%;
+}
+
+.tabLayoutPanel
+{
+	background-color: #EDEDED;
+	
+	margin: 1% 10% 1% 10%;
+	
+	font-size: 24px;
+	letter-spacing: 1px;
+}
+
+.tabPanel
+{
+	background-color: #DFDFDF;
+}
